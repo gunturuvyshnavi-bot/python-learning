@@ -1,0 +1,4 @@
+name= input(" enter your name") #asking user input
+Age=20 #direct assigning value to variable
+print(name)
+print(Age)
